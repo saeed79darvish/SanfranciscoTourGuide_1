@@ -1,0 +1,48 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="Title">
+        <item name="android:textSize">28sp</item>
+        <item name="android:textColor">#080000</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_margin">8dp</item>
+    </style>
+
+    <style name="Description">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#080000</item>
+        <item name="android:layout_marginRight">8dp</item>
+        <item name="android:layout_marginLeft">8dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+    </style>
+
+    <style name="AddressPhoneweb">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#080000</item>
+        <item name="android:layout_marginRight">8dp</item>
+        <item name="android:layout_marginLeft">8dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:drawablePadding">8dp</item>
+    </style>
+    <style name="tabs">
+        <item name="tabBackground">@color/colorPrimary</item>
+        <item name="tabIndicatorColor">#080000</item>
+        <item name="tabSelectedTextColor">#050000</item>
+        <item name="tabTextAppearance">@style/tabsText</item>
+    </style>
+
+    <style name="tabsText" parent="TextAppearance.Design.Tab">
+        <item name="android:textColor">#fcfcfc</item>
+
+
+    </style>
+
+
+</resources>

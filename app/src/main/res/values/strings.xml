@@ -1,0 +1,87 @@
+<resources>
+    <string name="app_name">San francisco  TourGuide</string>
+
+    <string name="category_Restaurant">RESTAURANT</string>
+    <string name="category_historical">HISTORICAL</string>
+    <string name="category_bars">BARS</string>
+
+    <string name="restaurant_zarzuela_description">A Spanish menu of tapas, paella and sangria served in a cozy, lively neighborhood space.</string>
+    <string name="restaurant_zarzuela_name">Zarzuela</string>
+    <string name="restaurant_zarzuela_address">2000 Hyde St, San Francisco, CA 94109</string>
+    <string name="restaurant_zarzuela_phone">(415) 346-0800</string>
+    <string name="restaurant_zarzuela_web">Zarzuela.com</string>
+
+    <string name="restaurant_barcha_description">Modern spot for Mediterranean eats in an arty, upbeat atmosphere, plus happy hour and patio seating.</string>
+    <string name="restaurant_barcha_name">Barcha</string>
+    <string name="restaurant_barcha_address">28 Fremont St, San Francisco, CA 94105</string>
+    <string name="restaurant_barcha_phone">(415) 957-5463</string>
+    <string name="restaurant_barcha_web">barcha-sf.com</string>
+
+    <string name="restaurant_maykadeh_description">White-tablecloth restaurant serving grilled kebabs and other Persian classics, plus steaks and seafood.</string>
+    <string name="restaurant_maykadeh_name">Maykadeh</string>
+    <string name="restaurant_maykadeh_address">470 Green St, San Francisco, CA 94133</string>
+    <string name="restaurant_maykadeh_phone">(415) 362-8286</string>
+    <string name="restaurant_maykadeh_web">maykadehrestaurant.com</string>
+
+    <string name="restaurant_takobasushi_description">Sushi Restaurant</string>
+    <string name="restaurant_takobasushi_name">Takoba sushi</string>
+    <string name="restaurant_takobasushi_address">138 Minna St, San Francisco, CA 94105</string>
+    <string name="restaurant_takobasushi_phone">(415) 361-0448</string>
+    <string name="restaurant_takobasushi_web">takobasf.com</string>
+
+
+    <string name="bars_barbarosa_description">Upscale lounge for drinks and Californian shared plates in a historic, Barbary Coast–era structure.</string>
+    <string name="bars_barbarosa_name">Barbarosa</string>
+    <string name="bars_barbarosa_address">714 Montgomery St, San Francisco, CA 94111</string>
+    <string name="bars_barbarosa_phone">(415) 434-4204</string>
+    <string name="bars_barbarosa_web">barbarossalounge.com</string>
+
+    <string name="bars_novela_description">A stylish, literary-themed bar with drinks named after characters, punch on tap and book-lined walls.</string>
+    <string name="bars_novela_name">Novela</string>
+    <string name="bars_novela_address">28 Fremont St, San Francisco, CA 94105</string>
+    <string name="bars_novela_phone">(415) 957-5463</string>
+    <string name="bars_novela_web">barcha-sf.com</string>
+
+    <string name="bars_louiesbar_description">Pub grub and draft beer are on tap at this low-key, brick-walled hangout serving food late at night.</string>
+    <string name="bars_louiesbar_name">Louiesbar</string>
+    <string name="bars_louiesbar_address">55 Stevenson St, San Francisco, CA 94105</string>
+    <string name="bars_louiesbar_phone">(415) 543-3540</string>
+    <string name="bars_louiesbar_web">pourguysinc.com</string>
+
+    <string name="bars_unionlarder_description">Stylish setting for wine, cheese and charcuterie also offers beer and wine by the bottle.</string>
+    <string name="bars_unionlarder_name">UNION LARDER</string>
+    <string name="bars_unionlarder_address">1945 Hyde St, San Francisco, CA 94109</string>
+    <string name="bars_unionlarder_phone">(415) 323-4845</string>
+    <string name="bars_unionlarder_web">unionlarder.com</string>
+
+
+    <string name="historical_unionSquare_description">Sushi Union Square is the teeming commercial hub of the city. Many major hotels and department stores are packed into the area surrounding the actual square.</string>
+    <string name="historical_unionSquare_name">Union Square</string>
+    <string name="historical_unionSquare_address">333 Post St, San Francisco, CA 94108</string>
+
+    <string name="historical_palace_description">This Greco-Roman palace and architectural attraction hosts an ever-changing roster of performing arts.
+         This article is about the structure in San Francisco  Marina District.
+         For the structure on Treasure Island, San Francisco, see Palace of Fine and Decorative Arts,
+         Treasure Island. For the Mexico City opera house, see Palacio de Bellas Artes.</string>
+    <string name="historical_palace_name">Palace of Fine</string>
+    <string name="historical_palace_address">3301 Lyon St, San Francisco, CA 94123</string>
+
+    <string name="historical_marketstreet_description">Market Street is a major thoroughfare in San Francisco, California. It begins at The Embarcadero
+          in front of the Ferry Building at the northeastern edge of the city and runs southwest through downtown, passing
+          the Civic Center and the Castro District, to the intersection with Corbett Avenue in the Twin Peaks neighborhood.
+          Beyond this point, the roadway continues as Portola Drive into the southwestern quadrant of San Francisco.
+          Portola Drive extends south to the intersection of St.
+</string>
+    <string name="historical_marketstreet_name">Market Street</string>
+    <string name="historical_marketstreet_address">Market Street,San Francisco,CA</string>
+
+    <string name="historical_goldengatebridge_description">The Golden Gate Bridge is a suspension bridge spanning the Golden Gate, the one-mile-wide (1.6 km) strait
+         connecting San Francisco Bay and the Pacific Ocean. The structure links the American city of San Francisco,
+         California – the northern tip of the San Francisco Peninsula – to Marin County,
+         carrying both U.S. Route 101 and California State Route 1 across the strait.
+         The bridge is one of the most internationally recognized symbols of San Francisco,
+         California, and the United States. It has been declared one of the Wonders of the
+         Modern World by the American Society of Civil Engineers</string>
+    <string name="historical_goldengatebridge_name">Golden Gate Bridge</string>
+    <string name="historical_goldengatebridge_address">Golden Gate Bridge, San Francisco, CA</string>
+</resources>
