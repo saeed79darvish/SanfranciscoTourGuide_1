@@ -19,14 +19,17 @@ public class FragmentAdapter extends FragmentPagerAdapter {
             return new RestaurantFragment();
         } else if (position == 1) {
             return new HistoricalFragment();
-        } else {
+        }
+        else if (position == 2) {
+            return new ShoppingFragment();}
+        else {
             return new BarsFragment();
         }
     }
 
     @Override
     public int getCount() {
-        return 3;
+        return 4;
     }
 
     @Override
@@ -35,7 +38,10 @@ public class FragmentAdapter extends FragmentPagerAdapter {
             return context.getString(R.string.category_Restaurant);
         } else if (position == 1) {
             return context.getString(R.string.category_historical);
-        } else {
+        }
+        else if (position == 2) {
+            return context.getString(R.string.category_shopping);}
+        else {
             return context.getString(R.string.category_bars);
         }
     }

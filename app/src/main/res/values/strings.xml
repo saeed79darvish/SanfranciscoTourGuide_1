@@ -3,6 +3,7 @@
 
     <string name="category_Restaurant">RESTAURANT</string>
     <string name="category_historical">HISTORICAL</string>
+    <string name="category_shopping">Shopping</string>
     <string name="category_bars">BARS</string>
 
     <string name="restaurant_zarzuela_description">A Spanish menu of tapas, paella and sangria served in a cozy, lively neighborhood space.</string>
@@ -53,6 +54,34 @@
     <string name="bars_unionlarder_address">1945 Hyde St, San Francisco, CA 94109</string>
     <string name="bars_unionlarder_phone">(415) 323-4845</string>
     <string name="bars_unionlarder_web">unionlarder.com</string>
+
+
+    <string name="shopping_westfield_description">9-story mall featuring over 170 shops and restaurants, a multiplex and a dome-covered atrium.</string>
+    <string name="shopping_westfield_name"> Westfield</string>
+    <string name="shopping_westfield_address">865 Market St, San Francisco, CA 94103</string>
+    <string name="shopping_westfield_phone">(415) 512-6776</string>
+    <string name="shopping_westfield_web">westfield.com</string>
+
+
+    <string name="shopping_ferrybuilding_description">Vendors sell produce, cheese, coffee, candy and prepared food in this soaring, restored 1898 space.</string>
+    <string name="shopping_ferrybuilding_name">Ferry Building</string>
+    <string name="shopping_ferrybuilding_address">One Ferry Building,San Francisco, CA 94111</string>
+    <string name="shopping_ferrybuilding_phone">(415) 983-8030</string>
+    <string name="shopping_ferrybuilding_web">ferrybuildingmarketplace.com</string>
+
+
+    <string name="shopping_metreon_description">Modern mall offers a dining terrace with a range of ethnic fare, big-box shops and a 16-screen cinema.</string>
+    <string name="shopping_metreon_name">Metreon</string>
+    <string name="shopping_metreon_address">135 4th St, San Francisco, CA 94103</string>
+    <string name="shopping_metreon_phone">(415) 369-6000</string>
+    <string name="shopping_metreon_web">shoppingmetreon.com</string>
+
+
+    <string name="shopping_embarcadero_description">Shopping mall with familiar retailers and restaurants, plus a theater featuring independent films.</string>
+    <string name="shopping_embarcadero_name">Embarcadero Center</string>
+    <string name="shopping_embarcadero_address">1 Embarcadero Center, San Francisco, CA 94111</string>
+    <string name="shopping_embarcadero_phone">(415) 772-0700</string>
+    <string name="shopping_embarcadero_web">embarcaderocenter.com</string>
 
 
     <string name="historical_unionSquare_description">Sushi Union Square is the teeming commercial hub of the city. Many major hotels and department stores are packed into the area surrounding the actual square.</string>
